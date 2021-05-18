@@ -1,4 +1,4 @@
-# CT Scan COVID-19 lesion segmentation
+# CT Scan lesion segmentation
 
 ## Datasets found in:
 - JUN, M. et al.COVID-19 CT Lung and Infection Segmentation Dataset. 2020. Available at: <https://zenodo.org/record/3757476>
